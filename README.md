@@ -1,6 +1,6 @@
 # NullGet
-Custom NuGet package server
+A server for custom NuGet packages
 
-## Azure hosting
+## Hosted on Azure
 
 http://nullget.azurewebsites.net
