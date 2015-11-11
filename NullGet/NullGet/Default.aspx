@@ -10,6 +10,8 @@
 </head>
 <body>
     <div>
+        <h1>NullGet</h1>
+        <p>A server for custom NuGet packages</p>
         <h2>You are running NuGet.Server v<%= typeof(NuGet.Server.DataServices.Package).Assembly.GetName().Version %></h2>
         <p>
             Click <a href="<%= VirtualPathUtility.ToAbsolute("~/nuget/Packages") %>">here</a> to view your packages.
