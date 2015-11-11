@@ -103,7 +103,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="packages.config" />
-    <Content Include="Packages\SqlRepository.1.0.0.0.Release.AnyCPU.nupkg" />
+    <Content Include="Packages\SqlRepository.1.0.0.0.Debug.AnyCPU.nupkg" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
