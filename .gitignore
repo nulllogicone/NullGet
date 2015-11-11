@@ -140,6 +140,10 @@ publish/
 **/packages/*
 # except build/, which is used as an MSBuild target.
 !**/packages/build/
+
+# Except the packages folder for custom packages of the NuGet server
+!**NullGet/Packages/
+
 # Uncomment if necessary however generally it will be regenerated when needed
 #!**/packages/repositories.config
 
