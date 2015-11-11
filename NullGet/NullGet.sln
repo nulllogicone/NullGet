@@ -7,8 +7,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullGet", "NullGet\NullGet.
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FAB1B275-2BCF-47F1-A946-D6F45FE60657}"
 	ProjectSection(SolutionItems) = preProject
+		..\LICENSE = ..\LICENSE
 		..\README.md = ..\README.md
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlRepository", "SqlRepository\SqlRepository.csproj", "{B6544748-9894-43C8-88D8-F299C7F3164E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,6 +23,10 @@ Global
 		{B8F50E0F-0C53-487E-B602-8F4183DEFCC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B8F50E0F-0C53-487E-B602-8F4183DEFCC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B8F50E0F-0C53-487E-B602-8F4183DEFCC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6544748-9894-43C8-88D8-F299C7F3164E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6544748-9894-43C8-88D8-F299C7F3164E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6544748-9894-43C8-88D8-F299C7F3164E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6544748-9894-43C8-88D8-F299C7F3164E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
