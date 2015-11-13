@@ -105,6 +105,7 @@
     <Content Include="CustomPackages\readme.txt" />
     <Content Include="packages.config" />
     <Content Include="CustomPackages\SqlRepository.1.0.0.0.Debug.AnyCPU.nupkg" />
+    <Content Include="CustomPackages\TokenStore.1.0.0.0.Debug.AnyCPU.nupkg" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
